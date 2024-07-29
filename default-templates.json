@@ -691,7 +691,7 @@
   },
   "underline-aura": {
     "name": "Underline Aura",
-    "image": "http://everest-forms-templatesdetails-page.local/wp-content/plugins/everest-forms-style-customizer/assets/images/templates/default.png",
+    "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/underline-aura.png",
     "data": {
       "wrapper": {
         "border_type": "none",
@@ -821,7 +821,7 @@
   },
   "bubble-wrap": {
     "name": "Bubble Wrap",
-    "image": "http://everest-forms-templatesdetails-page.local/wp-content/plugins/everest-forms-style-customizer/assets/images/templates/default.png",
+    "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/bubble-wrap.png",
     "data": {
       "wrapper": {
         "border_type": "none",
@@ -947,7 +947,7 @@
   },
   "leafy-frame": {
     "name": "Leafy Frame",
-    "image": "http://everest-forms-templatesdetails-page.local/wp-content/plugins/everest-forms-style-customizer/assets/images/templates/default.png",
+    "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/leafy-frame.png",
     "data": {
       "wrapper": {
         "border_type": "none",
@@ -1066,7 +1066,7 @@
   },
   "rounded-titan": {
     "name": "Rounded Titan",
-    "image": "http://everest-forms-templatesdetails-page.local/wp-content/plugins/everest-forms-style-customizer/assets/images/templates/default.png",
+    "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/rounded-titan.png",
     "data": {
       "wrapper": {
         "border_type": "none",
@@ -1184,7 +1184,7 @@
   },
   "big-daddy": {
     "name": "Big Daddy",
-    "image": "http://everest-forms-templatesdetails-page.local/wp-content/plugins/everest-forms-style-customizer/assets/images/templates/default.png",
+    "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/big-daddy.png",
     "data": {
       "wrapper": {
         "border_type": "none",
@@ -1302,7 +1302,7 @@
   },
   "underline-lead": {
     "name": "Underline Lead",
-    "image": "http://everest-forms-templatesdetails-page.local/wp-content/plugins/everest-forms-style-customizer/assets/images/templates/default.png",
+    "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/underline-lead.png",
     "data": {
       "wrapper": {
         "border_type": "none",
@@ -1428,7 +1428,7 @@
   },
   "in-line-flair": {
     "name": "In-Line Flair",
-    "image": "http://everest-forms-templatesdetails-page.local/wp-content/plugins/everest-forms-style-customizer/assets/images/templates/default.png",
+    "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/in-line-flair.png",
     "data": {
       "wrapper": {
         "border_type": "none",
@@ -1554,7 +1554,7 @@
   },
   "classic-flow": {
     "name": "Classic Flow",
-    "image": "http://everest-forms-templatesdetails-page.local/wp-content/plugins/everest-forms-style-customizer/assets/images/templates/default.png",
+    "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/classic-flow.png",
     "data": {
       "wrapper": {
         "border_type": "none",
