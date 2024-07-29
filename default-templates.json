@@ -689,7 +689,7 @@
       }
     }
   },
-  "underline-aura": {
+  "layout-three": {
     "name": "Underline Aura",
     "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/underline-aura.png",
     "data": {
@@ -711,7 +711,7 @@
           }
         },
         "font_family": "Roboto",
-        "background_image": "http://everest-forms-templatesdetails-page.local/wp-content/uploads/2024/07/Underline-Aura-bg.png",
+        "background_image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/underline-aura.png",
         "background_position_x": "center",
         "background_position_y": "center"
       },
@@ -819,7 +819,7 @@
       }
     }
   },
-  "bubble-wrap": {
+  "layout-four": {
     "name": "Bubble Wrap",
     "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/bubble-wrap.png",
     "data": {
@@ -945,7 +945,7 @@
       }
     }
   },
-  "leafy-frame": {
+  "layout-five": {
     "name": "Leafy Frame",
     "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/leafy-frame.png",
     "data": {
@@ -967,7 +967,7 @@
           }
         },
         "font_family": "Roboto",
-        "background_image": "http://everest-forms-templatesdetails-page.local/wp-content/uploads/2024/07/leafy-frame-bg.png"
+        "background_image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/underline-aura.png"
       },
       "section_title": {
         "font_size": "20",
@@ -1064,7 +1064,7 @@
       }
     }
   },
-  "rounded-titan": {
+  "layout-six": {
     "name": "Rounded Titan",
     "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/rounded-titan.png",
     "data": {
@@ -1182,7 +1182,7 @@
       }
     }
   },
-  "big-daddy": {
+  "layout-seven": {
     "name": "Big Daddy",
     "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/big-daddy.png",
     "data": {
@@ -1300,7 +1300,7 @@
       }
     }
   },
-  "underline-lead": {
+  "layout-eight": {
     "name": "Underline Lead",
     "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/underline-lead.png",
     "data": {
@@ -1426,7 +1426,7 @@
       }
     }
   },
-  "in-line-flair": {
+  "layout-nine": {
     "name": "In-Line Flair",
     "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/in-line-flair.png",
     "data": {
@@ -1552,7 +1552,7 @@
       }
     }
   },
-  "classic-flow": {
+  "layout-eleven": {
     "name": "Classic Flow",
     "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/classic-flow.png",
     "data": {
