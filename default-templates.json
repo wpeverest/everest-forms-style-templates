@@ -1183,8 +1183,8 @@
     }
   },
   "layout-seven": {
-    "name": "Big Daddy",
-    "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/big-daddy.png",
+    "name": "Royal Giant",
+    "image": "https://raw.githubusercontent.com/wpeverest/everest-forms-style-templates/main/images/royal-giant.png",
     "data": {
       "wrapper": {
         "border_type": "none",
